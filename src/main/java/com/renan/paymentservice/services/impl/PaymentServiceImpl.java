@@ -11,6 +11,6 @@ public class PaymentServiceImpl implements PaymentService {
 
     @Override
     public void sendPayment(Payment payment) {
-        log.info("PAYMENT_SERVICE_IMPL ::: Recebi o pagamento: {}", payment);
+
     }
 }
